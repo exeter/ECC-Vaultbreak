@@ -1,0 +1,15 @@
+# Dependencies (none currently, but future-proof)
+node_modules/
+
+# Environment / secrets
+.env
+.env.*
+*.key
+
+# OS artifacts
+Thumbs.db
+.DS_Store
+
+# Editor artifacts
+.vscode/*
+!.vscode/extensions.json
