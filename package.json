@@ -1,0 +1,10 @@
+{
+  "name": "vaultbreak",
+  "version": "1.0.0",
+  "description": "Single-screen site for testing LLM prompt security via jailbreak attempts (OpenRouter / GLM 5.3 Flash).",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "MIT"
+}
